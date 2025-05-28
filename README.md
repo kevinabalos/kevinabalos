@@ -5,7 +5,6 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a Systems Analysis student in my final year. I am currently expanding my knowledge in Java, building on my basic experience in web development and Python. I’m passionate about learning and creating something new, productive, innovative, and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
 - 🌱 I’m currently learning ...
   - Java
   - Salesforce
